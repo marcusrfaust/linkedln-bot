@@ -1,4 +1,3 @@
- 
 # LinkedIn Automation Bot
 
 This LinkedIn Automation Bot allows you to interact with posts and create your own posts on LinkedIn, using Google Gemini AI to generate insightful comments and posts. It's built using Python, Selenium, and other powerful libraries to automate liking, commenting, and posting on LinkedIn.
@@ -27,23 +26,28 @@ This LinkedIn Automation Bot allows you to interact with posts and create your o
 ## Setup
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/joeygoesgrey/linkedln-bot.git
    cd linkedin-bot
    ```
 
 2. **Create a Pipenv Environment and Install Dependencies:**
+
    ```bash
    pipenv install
    ```
 
 3. **Activate the Pipenv Shell:**
+
    ```bash
    pipenv shell
    ```
 
 4. **Set Up Environment Variables:**
+
    - Create a `.env` file in the root directory with your LinkedIn credentials and Google Gemini API key:
+
    ```ini
    LINKEDLN_USERNAME=your_linkedln_username
    LINKEDLN_PASSWORD=your_linkedln_password
@@ -57,6 +61,7 @@ This LinkedIn Automation Bot allows you to interact with posts and create your o
 
 1. **Run the Bot:**
    Start the bot using:
+
    ```bash
    python browser.py
    ```
@@ -77,10 +82,7 @@ This LinkedIn Automation Bot allows you to interact with posts and create your o
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ```
 
- 
+
+```
