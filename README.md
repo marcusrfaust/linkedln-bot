@@ -82,7 +82,4 @@ This LinkedIn Automation Bot allows you to interact with posts and create your o
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your enhancements or bug fixes.
 
-```
-
-
-```
+ 
