@@ -56,3 +56,9 @@ bazel-out/
 ##############
 .env
 .env.*
+
+
+venv/
+
+linkedlnbot.sh
+.txt
